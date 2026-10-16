@@ -33,9 +33,9 @@ The project can be published from its own repository or uploaded to any static h
 
 ## Content and assets
 
-The hero uses a browser-compatible JPEG conversion of the existing `hero-gardens` photo. The source is HEIC data stored in the menu project under a `.jpg` filename; that original file is unchanged. The wide crop is used on larger screens and the portrait JPEG is the small-screen source.
+The top hero uses browser-compatible JPEG versions of `hero-gardens`. Its source is HEIC data stored in the menu project under a `.jpg` filename. The source file is unchanged. The wide crop is selected at viewport widths of 901px and above; the portrait version is used below that breakpoint. The wide version is also the Open Graph preview image.
 
-Other photo choices match the area or mood shown: `pontoon.JPG` for Lilayi 1, `bliss.jpg` for Bonfire Gardens, `scenes.jpg` for the Main Events Garden, `views.jpg` for the Main House, `pontent.JPG` for the gathering section, and a selection of garden, lawn and guest photos in the gallery. The food and bar feature uses the venue's lounge photo instead of a menu food image. The menu project and its other assets are not modified.
+Photo placements follow the areas shown: `pontoon.JPG` for Lilayi 1, `bliss.jpg` for Bonfire Gardens, `scenes.jpg` for the Main Events Garden, and `views.jpg` for the Main House. The gathering section uses `pontent.JPG`, showing an event tent beside the pond. The food and bar feature uses `bar.jpg`, a lounge photo, rather than a menu food image. The gallery uses `trees.jpg`, `bridge.jpg`, `drinking.jpg` and `events1.jpg`; the drinking photo is top-aligned in its tile to keep guests' faces and glasses in view when cropped. The separate menu project and its other assets are not modified.
 
 Contact and social links match the existing menu's configured business details. Accommodation rates, availability and booking arrangements are intentionally left to direct enquiry. Opening times and event packages are not stated as confirmed facts.
 
